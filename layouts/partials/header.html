@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html class="no-js" lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title> {{ .Site.Title }} </title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {{ .Hugo.Generator }}
+    {{"<!-- Fonts -->" | safeHTML }}
+    <link href="https://fonts.googleapis.com/css?family=Droid+Serif:400i|Source+Sans+Pro:300,400,600,700" rel="stylesheet">
+    {{ "<!-- Stylesheets -->" | safeHTML }}
+    <link rel="stylesheet" href="{{ "css/bootstrap.min.css" | absURL }}">
+    <link rel="stylesheet" href="{{ "css/themefisher-fonts.css" | absURL }}">
+    <link rel="stylesheet" href="{{ "css/font-awesome.min.css" | absURL }}">
+    <link rel="stylesheet" href="{{ "css/owl.carousel.css" | absURL }}">
+    <link rel="stylesheet" href="{{ "css/animate.css" | absURL }}">
+    <link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
+    {{"<!-- Responsive Stylesheet -->" | safeHTML }}
+    <link rel="stylesheet" href="{{ "css/responsive.css" | absURL }}">
+</head>
+
+<body id="body">

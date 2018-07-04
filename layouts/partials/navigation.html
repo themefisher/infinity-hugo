@@ -1,0 +1,42 @@
+<div class="container">
+    <nav class="navbar navbar-fixed-top  navigation " id="top-nav">
+        <a class="navbar-brand" href="#">
+            {{ with .Site.Params.navigation.logo }}
+            <img src="{{ . }}" alt="logo">
+            {{ end }}
+        </a>
+        <button class="navbar-toggler hidden-lg-up float-lg-right" type="button" data-toggle="collapse" data-target="#navbarResponsive">
+            <i class="tf-ion-android-menu"></i>
+        </button>
+        <div class="collapse navbar-toggleable-md" id="navbarResponsive">
+            <ul class="nav navbar-nav menu float-lg-right" id="top-nav">
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">
+                        {{ with .Site.Params.navigation.home }} {{ . }} {{ end }}
+                    </a>
+                </li>
+                {{ if .Site.Params.about.enable }}
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ .Site.BaseURL }}#about">
+                            {{ with .Site.Params.navigation.about }} {{ . }} {{ end }}
+                        </a>
+                    </li>
+                {{ end }}
+                {{ if .Site.Params.service.enable }}
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ .Site.BaseURL }}#service">
+                            {{ with .Site.Params.navigation.service }} {{ . }} {{ end }}
+                        </a>
+                    </li>
+                {{ end }}
+                {{ if .Site.Params.contact.enable }}
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ .Site.BaseURL }}#contact">
+                            {{ with .Site.Params.navigation.contact }} {{ . }} {{ end }}
+                        </a>
+                    </li>
+                {{ end }}
+            </ul>
+        </div>
+    </nav>
+</div>

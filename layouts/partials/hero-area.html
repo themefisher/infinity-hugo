@@ -1,0 +1,69 @@
+{{ if .Site.Params.hero.enable }}
+    {{"<!-- Hero Area Section -->" | safeHTML}}
+    <section class="hero-area" style='background-image: url("{{ with .Site.Params.hero.bg }} {{ . }}{{ end }}");'>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-7">
+                    <div class="block">
+                        {{ with .Site.Params.hero.title }} 
+                        <h1 class="wow fadeInDown" data-wow-delay="0.3s" data-wow-duration=".2s">
+                            {{ . }}
+                        </h1>
+                        {{ end }}
+                        {{ with .Site.Params.hero.subtitle }}
+                        <p class="wow fadeInDown" data-wow-delay="0.5s" data-wow-duration=".5s">
+                            {{ . }}
+                        </p>
+                        {{ end }}
+                        {{ with .Site.Params.hero.btnText }}
+                        <div class="wow fadeInDown" data-wow-delay="0.7s" data-wow-duration=".7s">
+                            <a class="btn btn-home" href="#about" role="button">
+                                {{ . }}
+                            </a>
+                        </div>
+                        {{ end }}
+                    </div>
+                </div>
+                <div class="col-md-5 wow zoomIn">
+                    <div class="block">
+                        <div class="counter text-center">
+                            <ul id="countdown_dashboard" data-year="{{ with .Site.Params.hero.countdownYear }} {{ . }}{{ end }}" data-month="{{ with .Site.Params.hero.countdownMonth }} {{ . }}{{ end }}" data-day="{{ with .Site.Params.hero.countdownDay }} {{ . }}{{ end }}">
+                                <li>
+                                    <div class="dash days_dash">
+                                        <div class="digit">0</div>
+                                        <div class="digit">0</div>
+                                        <div class="digit">0</div>
+                                        <span class="dash_title">Days</span>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="dash hours_dash">
+                                        <div class="digit">0</div>
+                                        <div class="digit">0</div>
+                                        <span class="dash_title">Hours</span>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="dash minutes_dash">
+                                        <div class="digit">0</div>
+                                        <div class="digit">0</div>
+                                        <span class="dash_title">Minutes</span>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="dash seconds_dash">
+                                        <div class="digit">0</div>
+                                        <div class="digit">0</div>
+                                        <span class="dash_title">Seconds</span>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- .row close -->
+        </div>
+        <!-- .container close -->
+    </section>
+{{ end }}
