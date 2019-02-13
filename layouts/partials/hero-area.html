@@ -3,7 +3,7 @@
     <section class="hero-area" style='background-image: url("{{ with .Site.Params.hero.bg }} {{ . }}{{ end }}");'>
         <div class="container">
             <div class="row">
-                <div class="col-md-7">
+                <div class="col-lg-7 col-md-6">
                     <div class="block">
                         {{ with .Site.Params.hero.title }} 
                         <h1 class="wow fadeInDown" data-wow-delay="0.3s" data-wow-duration=".2s">
@@ -24,7 +24,7 @@
                         {{ end }}
                     </div>
                 </div>
-                <div class="col-md-5 wow zoomIn">
+                <div class="col-lg-5 col-md-6 wow zoomIn">
                     <div class="block">
                         <div class="counter text-center">
                             <ul id="countdown_dashboard" data-year="{{ with .Site.Params.hero.countdownYear }} {{ . }}{{ end }}" data-month="{{ with .Site.Params.hero.countdownMonth }} {{ . }}{{ end }}" data-day="{{ with .Site.Params.hero.countdownDay }} {{ . }}{{ end }}">
