@@ -16,8 +16,16 @@ Infinity based on Bootstrap 4 and offers Amazing design layout.
 * Quick Loading.
 
 
-## License
+## Premium Themes 
 
+* [Biztrox](https://themefisher.com/products/biztrox-hugo-template/)
+* [Bexer](https://themefisher.com/products/bexer-hugo-theme/)
+* [Dtox](https://themefisher.com/products/dtox-hugo-theme/)
+* [Airspace](https://themefisher.com/products/airspace-hugo/)
+
+
+
+## License
 This Template is released under [Creative Commons Attribution 3.0 (CC-BY-3.0) License](https://creativecommons.org/licenses/by/3.0/)
 If you want to remove the credit simply make a [donation](https://www.paypal.me/Themefisher), so that we can run our contribution to hugo community.
 
