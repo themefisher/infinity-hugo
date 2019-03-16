@@ -1,12 +1,6 @@
 <div align="center">
 
 # [Infinity Hugo](https://themefisher.com/hugo-themes/)
-
-[![GitHub stars](https://img.shields.io/github/stars/themefisher/infinity-hugo.svg)](https://github.com/themefisher/infinity-hugo/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/themefisher/infinity-hugo.svg)](https://github.com/themefisher/infinity-hugo/issues) 
-[![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/themefisher/infinity-hugo.svg?maxAge=2592000)]() 
-[![GitHub forks](https://img.shields.io/github/forks/themefisher/infinity-hugo.svg)](https://github.com/themefisher/infinity-hugo/network)
-
 <img src="https://user-images.githubusercontent.com/37659754/54069193-7738c600-427f-11e9-9424-b31b6bae5d53.gif" alt="screenshot" width="100%">
 
 </div>
@@ -27,7 +21,6 @@ Infinity based on Bootstrap 4 and offers Amazing design layout.
 
 
 ## Demo
-![screenshot](https://user-images.githubusercontent.com/37659754/52687180-fc7bd400-2f7a-11e9-93c8-abf381f571e6.jpg)
 [Live Demo](http://demo.themefisher.com/infinity-hugo/).
 
 ## Installation
