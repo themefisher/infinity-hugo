@@ -21,7 +21,7 @@ Infinity based on Bootstrap 4 and offers Amazing design layout.
 
 
 ## Demo
-[Live Demo](http://demo.themefisher.com/infinity-hugo/).
+[Live Demo](https://themes.gohugo.io/theme/infinity-hugo/).
 
 ## Installation
 
@@ -30,7 +30,7 @@ Navigate to your themes folder in your Hugo site and use the following commands:
 ```
 $ mkdir themes
 $ cd themes
-$ git clone git@github.com:themefisher/infinity-hugo.git
+$ git clone https://github.com/themefisher/infinity-hugo.git
 ```
 
 
