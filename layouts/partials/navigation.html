@@ -1,6 +1,6 @@
 <div class="container">
     <nav class="navbar navbar-fixed-top  navigation " id="top-nav">
-        <a class="navbar-brand float-none float-lg-left" href="#">
+        <a class="navbar-brand float-none float-lg-left" href="{{ .Site.BaseURL }}">
             {{ with .Site.Params.navigation.logo }}
             <img src="{{ . }}" alt="logo">
             {{ end }}
@@ -11,7 +11,7 @@
         <div class="collapse navbar-toggleable-md" id="navbarResponsive">
             <ul class="nav navbar-nav menu float-lg-right" id="top-nav">
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">
+                    <a class="nav-link" href="{{ .Site.BaseURL }}#home">
                         {{ with .Site.Params.navigation.home }} {{ . }} {{ end }}
                     </a>
                 </li>
