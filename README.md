@@ -8,6 +8,7 @@
 Infinity is a responsive, modern and clean free construction/coming soon HTML template powered by Bootstrap4. This minimal template is packed with a countdown timer, contact form, about section where you can write a little bit about yourself and also feature section.
 
 Infinity based on Bootstrap 4 and offers Amazing design layout.
+**The images are only for demonstration purpose, Please don't use those images.**
 
 ## Table of Contents
 
