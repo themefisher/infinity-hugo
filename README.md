@@ -22,7 +22,7 @@ Infinity based on Bootstrap 4 and offers Amazing design layout.
 
 
 ## Demo
-[Live Demo](https://themes.gohugo.io/theme/infinity-hugo/).
+[Live Demo](http://demo.themefisher.com/infinity-hugo/).
 
 ## Installation
 
