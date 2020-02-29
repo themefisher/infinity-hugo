@@ -11,27 +11,27 @@
         <div class="collapse navbar-toggleable-md" id="navbarResponsive">
             <ul class="nav navbar-nav menu float-lg-right" id="top-nav">
                 <li class="nav-item active">
-                    <a class="nav-link" href="{{ .Site.BaseURL }}#home">
+                    <a class="nav-link" href="{{ .Site.BaseURL }}#{{ i18n "home" | anchorize }}">
                         {{ with .Site.Params.navigation.home }} {{ . }} {{ end }}
                     </a>
                 </li>
                 {{ if .Site.Params.about.enable }}
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ .Site.BaseURL }}#about">
+                        <a class="nav-link" href="{{ .Site.BaseURL }}#{{ i18n "about" | anchorize }}">
                             {{ with .Site.Params.navigation.about }} {{ . }} {{ end }}
                         </a>
                     </li>
                 {{ end }}
                 {{ if .Site.Params.service.enable }}
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ .Site.BaseURL }}#service">
+                        <a class="nav-link" href="{{ .Site.BaseURL }}#{{ i18n "service" | anchorize }}">
                             {{ with .Site.Params.navigation.service }} {{ . }} {{ end }}
                         </a>
                     </li>
                 {{ end }}
                 {{ if .Site.Params.contact.enable }}
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ .Site.BaseURL }}#contact">
+                        <a class="nav-link" href="{{ .Site.BaseURL }}#{{ i18n "contact" | anchorize }}">
                             {{ with .Site.Params.navigation.contact }} {{ . }} {{ end }}
                         </a>
                     </li>

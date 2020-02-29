@@ -13,9 +13,13 @@
                         {{ end }}
                         <div class="col-lg-6 offset-lg-3">
                             <div class="input-group">
-                                <input type="text" class="form-control" placeholder="Your Email Address Here">
+                                <input
+                                  type="text"
+                                  class="form-control"
+                                  placeholder='{{ i18n "yourEmailAddressHere" }}'
+                                >
                                 <span class="input-group-btn">
-                                    <button class="btn btn-default btn-subscription" type="button">Subscribe</button>
+                                    <button class="btn btn-default btn-subscription" type="button">{{ i18n "subscribe" }}</button>
                                 </span>
                             </div>
                         </div>
