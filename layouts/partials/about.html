@@ -1,6 +1,6 @@
 {{ if .Site.Params.about.enable }}
     {{"<!-- About Section -->" | safeHTML}}
-    <section id="about" class="section about bg-gray">
+    <section id="{{ i18n "about" | anchorize }}" class="section about bg-gray">
         <div class="container">
             <div class="row">
                 <div class="col-md-7 col-sm-12 wow fadeInLeft">
@@ -18,7 +18,7 @@
                 <div class="col-md-5 col-sm-12 wow fadeInLeft" data-wow-delay="0.3s">
                     <div class="about-slider">
                         {{ range .Site.Params.about.sliderItem }}
-                            <img src="{{ .image }}" alt="slider-image">
+                            <img src="{{ .image }}" alt="{{ i18n "sliderImage" }}">
                         {{ end }}
                     </div>
                 </div>

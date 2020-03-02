@@ -1,0 +1,40 @@
+about:
+  other: sobre
+allRightReserved:
+  other: "Todos os direitos reservados"
+contact:
+  other: contato
+contactMessageError:
+  other: "Sua mensagem foi enviada"
+contactMessageSuccess:
+  other: "Sua mensagem não foi enviada"
+content:
+  other: "Conteúdo"
+copyright:
+  other: "Direitos autorais"
+days:
+  other: "Dias"
+emailAddress:
+  other: "Endereço de email"
+home:
+  other: "página inicial"
+hours:
+  other: "Horas"
+minutes:
+  other: "Minutos"
+seconds:
+  other: "Segundos"
+sendMe:
+  other: "Enviar"
+service:
+  other: "serviço"
+sliderImage:
+  other: "Imagem do carrossel"
+subscribe:
+  other: "Assinar"
+yourEmailAddressHere:
+  other: "Seu endereço de email aqui"
+yourMessage:
+  other: "Sua mensagem"
+yourName:
+  other: "Seu nome"
