@@ -1,0 +1,40 @@
+about:
+  other: about
+allRightReserved:
+  other: "All right reserved"
+contact:
+  other: contact
+contactMessageError:
+  other: "Your Message was not sent successfully"
+contactMessageSuccess:
+  other: "Your Message was sent successfully"
+content:
+  other: content
+copyright:
+  other: "Copyright"
+days:
+  other: "Days"
+emailAddress:
+  other: "Email Address"
+home:
+  other: home
+hours:
+  other: "Hours"
+minutes:
+  other: "Minutes"
+seconds:
+  other: "Seconds"
+sendMe:
+  other: "Send me"
+service:
+  other: service
+sliderImage:
+  other: "Slider image"
+subscribe:
+  other: "Subscribe"
+yourEmailAddressHere:
+  other: "Your Email Address Here"
+yourMessage:
+  other: "Your Message"
+yourName:
+  other: "Your Name"
