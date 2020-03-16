@@ -15,11 +15,13 @@ contact = "Contact"
 
 # Hero Area
 [params.hero]
-enable      = true
-bg          = "images/header-bg.jpg"
-title       = "BRING YOUR PRODUCT TO LIGHT"
-subtitle    = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"
-btnText     = "Get Started"
+enable            = true
+bg                = "images/header-bg.jpg"
+title             = "BRING YOUR PRODUCT TO LIGHT"
+subtitle          = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"
+btnText           = "Get Started"
+disableCountdown  = false
+
 countdownYear = "2020"
 countdownMonth = "12"
 countdownDay  = "31"
@@ -39,7 +41,7 @@ image   = "images/about/3.jpg"
 [[params.about.sliderItem]]
 image   = "images/about/2.jpg"
 
-    
+
 # Service Section
 [params.service]
 enable      = true
@@ -80,7 +82,7 @@ icon    = "tf-globe"
 title   = "Fully SEO Optimized"
 description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 delay   = "0.6s"
-        
+
 [[params.service.serviceItem]]
 # give icon(themefisher icon font), title, description
 # more about themefisher icon font visit https://github.com/themefisher/themefisher-font
@@ -116,8 +118,8 @@ icon    = "tf-globe"
 title   = "Fully SEO Optimized"
 description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 delay   = "1.5s"
-    
-    
+
+
 # Call to Action Section
 [params.cta]
 enable      = true
