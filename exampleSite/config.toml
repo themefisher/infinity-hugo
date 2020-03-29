@@ -5,6 +5,9 @@ theme = "infinity-hugo"
 removePathAccents = true
 [params]
 
+# HTML before the closing </head>
+customHead = ""
+
 # Navigation
 [params.navigation]
 logo = "images/logo.png"

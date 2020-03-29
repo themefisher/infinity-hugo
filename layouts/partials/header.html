@@ -18,6 +18,8 @@
     <link rel="stylesheet" href="{{ `css/style.css` | absURL }}">
     {{"<!-- Responsive Stylesheet -->" | safeHTML }}
     <link rel="stylesheet" href="{{ `css/responsive.css` | absURL }}">
+
+    {{ $.Site.Params.customHead | safeHTML }}
 </head>
 
 <body id="body">
