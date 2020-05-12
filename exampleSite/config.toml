@@ -20,8 +20,9 @@ bg                = "images/header-bg.jpg"
 title             = "BRING YOUR PRODUCT TO LIGHT"
 subtitle          = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"
 btnText           = "Get Started"
-disableCountdown  = false
 
+# counter
+disableCountdown  = false
 countdownYear = "2020"
 countdownMonth = "12"
 countdownDay  = "31"
