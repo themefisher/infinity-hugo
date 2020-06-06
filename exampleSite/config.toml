@@ -1,6 +1,6 @@
 baseURL = "https://www.example.com"
 languageCode = "en-us"
-title = "Infinity Comming Soon Template By Themefisher"
+title = "Infinity | Comming Soon Hugo Template By Themefisher"
 theme = "infinity-hugo"
 removePathAccents = true
 [params]
