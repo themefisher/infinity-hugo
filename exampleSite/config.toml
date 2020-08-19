@@ -27,7 +27,7 @@ subtitle          = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, s
 btnText           = "Get Started"
 
 # counter
-disableCountdown  = true
+disableCountdown  = false
 countdownYear = "2020"
 countdownMonth = "12"
 countdownDay  = "31"
