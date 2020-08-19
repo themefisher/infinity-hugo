@@ -3,9 +3,11 @@ languageCode = "en-us"
 title = "Infinity | Comming Soon Hugo Template By Themefisher"
 theme = "infinity-hugo"
 removePathAccents = true
-[params]
+
+
 
 # HTML before the closing </head>
+[params]
 customHead = ""
 
 # Navigation
@@ -25,7 +27,7 @@ subtitle          = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, s
 btnText           = "Get Started"
 
 # counter
-disableCountdown  = false
+disableCountdown  = true
 countdownYear = "2020"
 countdownMonth = "12"
 countdownDay  = "31"
