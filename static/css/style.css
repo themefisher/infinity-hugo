@@ -435,7 +435,7 @@ a:active {
 }
 
 .service .block p {
-  color: #666;
+  color: #000;
 }
 
 /*--
@@ -581,4 +581,11 @@ footer p a {
 footer p a:hover {
   color: #fff;
   text-decoration: none;
+}
+
+#services-banner {
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px
 }

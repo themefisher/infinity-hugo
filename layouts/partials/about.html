@@ -6,12 +6,9 @@
                 <div class="col-md-7 col-sm-12 wow fadeInLeft">
                     <div class="content">
                         <div class="sub-heading">
-                        {{ with .Site.Params.about.heading }}
-                            <h3>{{ . }}</h3>
-                        {{ end }}
                         </div>
-                        {{ with .Site.Params.about.description }}
-                            <p>{{ . | markdownify }}</p>
+                        {{ range .Site.Params.about.description }}
+                        <p style="padding-bottom: 10px; text-align: justify">{{ . }}</p>
                         {{ end }}
                     </div>
                 </div>
