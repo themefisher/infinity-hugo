@@ -6,7 +6,7 @@ license = "CC BY 3.0"
 licenselink = "https://creativecommons.org/licenses/by/3.0/"
 description = "Hugo port of the Themefisher’s Infinity Template"
 homepage = "https://gethugothemes.com/products/infinity/"
-tags = ['comming-soon', 'landing-page', 'themefisher', 'hugo-theme', 'hugo-templates', 'bootstrap4']
+tags = ['comming-soon', 'landing-page', 'themefisher', 'hugo-theme', 'hugo-templates', 'bootstrap4','gethugothemes']
 features = ['bootstrap4','responsive']
 min_version = "0.58.0"
 
