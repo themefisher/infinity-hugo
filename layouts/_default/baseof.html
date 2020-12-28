@@ -2,7 +2,7 @@
     {{- partial "head.html" . -}}
     <body>
         {{- partial "header.html" . -}}
-        <div id="{{ i18n "content" | anchorize }}">
+        <div id="{{ i18n "content" | urlize }}">
         {{- block "main" . }}{{- end }}
         </div>
         {{- partial "footer.html" . -}}

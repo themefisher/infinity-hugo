@@ -1,6 +1,6 @@
 {{ if .Site.Params.hero.enable }}
     {{"<!-- Hero Area Section -->" | safeHTML}}
-    <section id="{{ i18n "home" | anchorize }}" class="hero-area" style='background-image: url("{{ with .Site.Params.hero.bg }} {{ . }}{{ end }}");'>
+    <section id="{{ i18n `home` | urlize }}" class="hero-area" style='background-image: url("{{ with .Site.Params.hero.bg }} {{ . }}{{ end }}");'>
         <div class="container">
             <div class="row">
                 <div class="col-lg-7 col-md-6">
@@ -17,13 +17,14 @@
                         {{ end }}
                         {{ with .Site.Params.hero.btnText }}
                         <div class="wow fadeInDown" data-wow-delay="0.7s" data-wow-duration=".7s">
-                            <a class="btn btn-home" href="#{{ i18n "about" | anchorize }}" role="button">
+                            <a class="btn btn-home" href="#{{ i18n "about" | urlize }}" role="button">
                                 {{ . }}
                             </a>
                         </div>
                         {{ end }}
                     </div>
                 </div>
+                {{ if not .Site.Params.hero.disableCountdown }}
                 <div class="col-lg-5 col-md-6 wow zoomIn">
                     <div class="block">
                         <div class="counter text-center">
@@ -61,6 +62,7 @@
                         </div>
                     </div>
                 </div>
+                {{ end }}
             </div>
             <!-- .row close -->
         </div>
