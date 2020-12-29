@@ -33,6 +33,7 @@ $ mkdir themes
 $ cd themes
 $ git clone https://github.com/themefisher/infinity-hugo.git
 ```
+Or Check out [Full Documentation](https://docs.gethugothemes.com/infinity/?ref=github).
 
 
 ## Main features
@@ -56,9 +57,11 @@ If your problem or idea is not addressed yet, [open a new issue](https://github.
 If you have questions or need help integrating the product please [contact us](mailto:mehedi@themefisher.com) instead of opening an issue.
 
 ## Licensing
+Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)
 
-This Theme is released under [Creative Commons Attribution 3.0 (CC-BY-3.0) License](https://creativecommons.org/licenses/by/3.0/)
-If you want to remove the credit simply make a [donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GSG5G2YL3E5V4), so that we can run our contribution to hugo community.
+**Code License:** Released under the [MIT](https://github.com/themefisher/infinity-hugo/blob/master/LICENSE) license.
+
+**Image license:** The images are only for demonstration purposes. They have their own licence, we don't have permission to share those image.
 
 ## Hire Us
 We are available for Hiring of your next HUGO project. Drop Us a mail [mehedi@themefisher.com](mailto:mehedi@themefisher.com)
@@ -68,7 +71,3 @@ We are available for Hiring of your next HUGO project. Drop Us a mail [mehedi@th
 | [![Mega-Bundle-HUGO](https://gethugothemes.com/wp-content/uploads/edd/2019/09/Mega-Bundle-HUGO.png)](https://themefisher.com/products/hugo-mega-bundle/) | [![Adrian](https://gethugothemes.com/wp-content/uploads/edd/2019/12/adrian-ecommerce-template.jpg)](https://gethugothemes.com/products/adrian/) | [![influencer](https://gethugothemes.com/wp-content/uploads/2019/11/Influencer.png)](https://gethugothemes.com/products/influencer-hugo/) |
 |:---:|:---:|:---:|
 | **Hugo Mega Bundle**  | **Adrian**  | **Influencer**  |
-| [![Agico](https://gethugothemes.com/wp-content/uploads/2019/06/Hugo-theme-agico.jpg)](https://gethugothemes.com/products/agico-hugo-theme/) | [![Biztrox](https://gethugothemes.com/wp-content/uploads/2019/12/Biztrox.png)](https://gethugothemes.com/products/hugo-business-theme/) | [![Bexer](https://gethugothemes.com/wp-content/uploads/2019/06/hugo-theme-bexer.jpg)](https://gethugothemes.com/products/bexer-hugo-theme/) |
-| **Agico** | **Biztrox** | **Bexer** |
-| [![Dtox](https://gethugothemes.com/wp-content/uploads/2019/06/hugo-theme-Dtox.jpg)](https://gethugothemes.com/products/dtox-hugo-theme/) | [![Enov](https://gethugothemes.com/wp-content/uploads/2019/09/enov-business-template.jpg)](https://gethugothemes.com/products/enov-hugo/) | [![all](https://gethugothemes.com/wp-content/uploads/2019/12/get-more-hugo-themes.png)](https://gethugothemes.com/shop/) |
-| **Dtox** | **Enov** | **More Hugo Themes** |
