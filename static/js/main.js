@@ -11,7 +11,7 @@ $(document).ready(function () {
     $('#top-nav').onePageNav({
         currentClass: 'current',
         changeHash: true,
-        scrollSpeed: 1200
+        scrollSpeed: 0
     });
 
 
