@@ -28,7 +28,7 @@
 ## Features
 - Open graph meta tag
 - Twitter card meta tag
-- onepage template
+- Onepage template
 - Google analytics  support
 - Netlify settings predefined
 - Countdown timer available
