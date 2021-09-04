@@ -1,73 +1,128 @@
-<div align="center">
+<h1 align=center>Infinity Hugo Theme | <a target="_blank" href="https://demo.gethugothemes.com/infinity" rel="nofollow">Demo</a> | <a  target="_blank" href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Finfinity%2F">Page Speed (71%)</a></h1>
 
-# [Infinity Hugo](https://themefisher.com/hugo-themes/)
-<img src="https://user-images.githubusercontent.com/37659754/54069193-7738c600-427f-11e9-9424-b31b6bae5d53.gif" alt="screenshot" width="100%">
+<p align=center>
+  <a href="https://github.com/gohugoio/hugo/releases/tag/v0.87.0" alt="Contributors">
+    <img src="https://img.shields.io/static/v1?label=min-HUGO-version&message=0.87.0&color=f00&logo=hugo" />
+  </a>
 
-</div>
+  <a href="https://github.com/gethugothemes/infinity-hugo/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/gethugothemes/infinity-hugo" alt="license"></a>
 
-Infinity is a responsive, modern and clean free construction/coming soon HTML template powered by Bootstrap4. This minimal template is packed with a countdown timer, contact form, about section where you can write a little bit about yourself and also feature section.
+  <img src="https://img.shields.io/github/languages/code-size/gethugothemes/infinity-hugo" alt="code size">
 
-Infinity based on Bootstrap 4 and offers Amazing design layout.
-**The images are only for demonstration purpose, Please don't use those images.**
+  <a href="https://github.com/gethugothemes/infinity-hugo/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/gethugothemes/infinity-hugo" alt="contributors"></a>
 
-## Table of Contents
+  <a href="https://twitter.com/intent/follow?screen_name=gethugothemes">
+    <img src="https://img.shields.io/twitter/follow/gethugothemes?style=social&logo=twitter"
+      alt="follow on Twitter"></a>
+</p>
 
-- [Demo](#demo)
-- [Installation](#installation)
-- [Main Features](#main-features)
-- [Reporting Issues](#reporting-issues)
-- [Technical Support or Questions](#technical-support-or-questions-(paid))
-- [Licensing](#licensing)
-- [More Hugo Themes](https://themefisher.com/hugo-themes/)
+---
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/37659754/54069193-7738c600-427f-11e9-9424-b31b6bae5d53.gif" alt="screenshot" width="100%">
+</p>
 
-## Demo
-[Live Demo](http://demo.themefisher.com/infinity-hugo/).
+---
+## Features
+- Open graph meta tag
+- Twitter card meta tag
+- onepage template
+- Google analytics  support
+- Netlify settings predefined
+- Countdown timer available
+- Contact form Support
+- Google page speed optimized ( 71% )
 
-## Installation
+## Local development
 
-Navigate to your themes folder in your Hugo site and use the following commands:
+```bash
+# clone the repository
+git clone git@github.com:gethugothemes/infinity-hugo.git
 
+# cd in the project directory
+$ cd infinity-hugo/exampleSite/
+
+# Start local dev server
+$ hugo server --themesDir ../..
 ```
-$ mkdir themes
-$ cd themes
-$ git clone https://github.com/themefisher/infinity-hugo.git
-```
-Or Check out [Full Documentation](https://docs.gethugothemes.com/infinity/?ref=github).
+Or Check out [Full Documentation](https://docs.gethugothemes.com/Infinity/?ref=github).
 
+## Content Management System
 
-## Main features
+[![import to
+Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=gethugothemes/infinity-hugo&engine=hugo&version=0.80.0)
 
-* Fully Responsive Ready.
-* Powered by bootstrap css framework.
-* Parallax effect.
-* Coming Soon Landing Page Template.
-* Email Subscribe Form & Contact Form.
-* Documented codes.
-* Quick Loading.
+This project has been pre-configured to work with [Forestry](https://forestry.io) a git-based CMS, [import your
+repository in Forestry](https://app.forestry.io/quick-start?repo=gethugothemes/infinity-hugo&engine=hugo&version=0.80.0) and
+you will be able to edit and preview your site ✨.
 
+Any changes you make in Forestry will be committed back to the repo and deployed if you use [Netlify](#netlify) or
+[Vercel](#vercel).
 
+## Deployment and hosting
+
+[![Deploy to
+Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gethugothemes/infinity-hugo)
+
+Follow the steps.
+
+## Prefer a video? (Hugo + Netlify + Forestry)
+Build your website with **Infinity Hugo** theme by following these easy steps (No Coding Required!)
+[Video Tutorial](https://youtu.be/ResipmZmpDU).
+
+<!-- reporting issue -->
 ## Reporting Issues
+We use GitHub Issues as the official bug tracker for the Infinity Template. Please Search [existing
+issues](https://github.com/gethugothemes/infinity-hugo/issues). Someone may have already reported the same problem.
+If your problem or idea has not been addressed yet, feel free to [open a new
+issue](https://github.com/gethugothemes/infinity-hugo/issues).
 
-We use GitHub Issues as the official bug tracker for the Infinity Template. Please Search [existing issues](https://github.com/themefisher/infinity-hugo/issues). It’s possible someone has already reported the same problem.
-If your problem or idea is not addressed yet, [open a new issue](https://github.com/themefisher/infinity-hugo/issues)
+<!-- ## Infinity Hugo theme Powered Websites
+- https://thetechbattalion.com/
+- https://adaptechgroup.com/
+- https://adenuz.com/
+- https://junior-aei.com/
+- https://akademiainformatyki.edu.pl/
+- https://naval-engineering.com/
+- https://www.istrosec.com/
+- https://www.puylevequepatrimoine.com/
+- https://www.beltlabs.com/
+- https://cloud-fundis.co.za
+- https://www.cocoon-arolla.com
+- https://www.plurisante202.fr
 
-## Technical Support or Questions (Paid)
+View all the websites powered by Infinity Hugo theme [here](https://github.com/gethugothemes/infinity-hugo/wiki/All-infinity-hugo-theme-Powered-Websites). Want to submit your own website powered by Infinity Hugo theme? You can submit it [here](https://github.com/gethugothemes/infinity-hugo/discussions/174). -->
 
-If you have questions or need help integrating the product please [contact us](mailto:mehedi@themefisher.com) instead of opening an issue.
+<!-- licence -->
+## License
+Copyright &copy; Designed by [Themefisher](https://themefisher.com) & Developed by
+[Gethugothemes](https://gethugothemes.com)
 
-## Licensing
-Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)
+**Code License:** Released under the [MIT](https://github.com/gethugothemes/infinity-hugo/blob/master/LICENSE) license.
 
-**Code License:** Released under the [MIT](https://github.com/themefisher/infinity-hugo/blob/master/LICENSE) license.
+**Image license:** The images are only for demonstration purposes. They have their licenses. We don't have permission to
+share those images.
 
-**Image license:** The images are only for demonstration purposes. They have their own licence, we don't have permission to share those image.
+<!-- resources -->
+## Special Thanks
+- [Bootstrap](https://getbootstrap.com)
+- [Jquery](https://jquery.com)
+- [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2)
+- [Animate](https://github.com/animate-css/animate.css)
+- [Wow](https://wowjs.uk)
+- [Font Awesome Icons](https://fontawesome.com)
+- [Google Fonts](https://fonts.google.com/)
+- [All Contributors](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)
+
 
 ## Hire Us
-We are available for Hiring of your next HUGO project. Drop Us a mail [mehedi@themefisher.com](mailto:mehedi@themefisher.com)
+We are available for **Hiring** for your next HUGO project. Please, check our
+[services](https://cutt.ly/ght-service)
 
-## Premium Themes
-
-| [![Mega-Bundle-HUGO](https://gethugothemes.com/wp-content/uploads/edd/2019/09/Mega-Bundle-HUGO.png)](https://themefisher.com/products/hugo-mega-bundle/) | [![Adrian](https://gethugothemes.com/wp-content/uploads/edd/2019/12/adrian-ecommerce-template.jpg)](https://gethugothemes.com/products/adrian/) | [![influencer](https://gethugothemes.com/wp-content/uploads/2019/11/Influencer.png)](https://gethugothemes.com/products/influencer-hugo/) |
+<!-- premium themes -->
+## Premium Themes By Us
+| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.webp)](https://gethugothemes.com/bundle) | [![Timer](https://demo.gethugothemes.com/thumbnails/timer.webp)](https://gethugothemes.com/products/reader/) | [![Bizcraft](https://demo.gethugothemes.com/thumbnails/bizcraft.webp)](https://gethugothemes.com/products/bizcraft-hugo/) |
 |:---:|:---:|:---:|
-| **Hugo Mega Bundle**  | **Adrian**  | **Influencer**  |
+| **Premium Theme Bundle (40+)** | **Timer** | **Bizcraft** |
