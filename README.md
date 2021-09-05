@@ -26,14 +26,14 @@
 
 ---
 ## Features
-- Open graph meta tag
-- Twitter card meta tag
 - Onepage template
 - Google analytics  support
 - Netlify settings predefine
 - Countdown timer available
 - Contact form Support
 - Google page speed optimized ( 71% )
+- Open graph meta tag
+- Twitter card meta tag
 
 ## Local development
 
@@ -76,23 +76,12 @@ Build your website with **Infinity Hugo** theme by following these easy steps (N
 We use GitHub Issues as the official bug tracker for the Infinity Template. Please Search [existing
 issues](https://github.com/gethugothemes/infinity-hugo/issues). Someone may have already reported the same problem.
 If your problem or idea has not been addressed yet, feel free to [open a new
-issue](https://github.com/gethugothemes/infinity-hugo/issues/new).
+issue](https://github.com/gethugothemes/infinity-hugo/issues).
 
 <!-- ## Infinity Hugo theme Powered Websites
-- https://thetechbattalion.com/
-- https://adaptechgroup.com/
-- https://adenuz.com/
-- https://junior-aei.com/
-- https://akademiainformatyki.edu.pl/
-- https://naval-engineering.com/
-- https://www.istrosec.com/
-- https://www.puylevequepatrimoine.com/
-- https://www.beltlabs.com/
-- https://cloud-fundis.co.za
-- https://www.cocoon-arolla.com
-- https://www.plurisante202.fr
 
-View all the websites powered by Infinity Hugo theme [here](https://github.com/gethugothemes/infinity-hugo/wiki/All-infinity-hugo-theme-Powered-Websites). Want to submit your own website powered by Infinity Hugo theme? You can submit it [here](https://github.com/gethugothemes/infinity-hugo/discussions/174). -->
+
+View all the websites powered by Infinity Hugo theme [here](https://github.com/gethugothemes/infinity-hugo/wiki/All-infinity-hugo-theme-Powered-Websites). Want to submit your own website powered by Infinity Hugo theme? You can submit it [here](https://github.com/gethugothemes/infinity-hugo/discussions/22). -->
 
 <!-- licence -->
 ## License
@@ -122,6 +111,6 @@ We are available for **Hiring** for your next HUGO project. Please, check our
 
 <!-- premium themes -->
 ## Premium Themes By Us
-| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.webp)](https://gethugothemes.com/bundle) | [![Timer](https://demo.gethugothemes.com/thumbnails/timer.webp)](https://gethugothemes.com/products/reader/) | [![Bizcraft](https://demo.gethugothemes.com/thumbnails/bizcraft.webp)](https://gethugothemes.com/products/bizcraft-hugo/) |
+| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.webp)](https://gethugothemes.com/bundle) | [![Timer](https://demo.gethugothemes.com/thumbnails/timer.webp)](https://gethugothemes.com/products/timer/) | [![Bizcraft](https://demo.gethugothemes.com/thumbnails/bizcraft.webp)](https://gethugothemes.com/products/bizcraft/) |
 |:---:|:---:|:---:|
 | **Premium Theme Bundle (40+)** | **Timer** | **Bizcraft** |
