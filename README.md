@@ -30,7 +30,7 @@
 - Twitter card meta tag
 - Onepage template
 - Google analytics  support
-- Netlify settings predefined
+- Netlify settings predefine
 - Countdown timer available
 - Contact form Support
 - Google page speed optimized ( 71% )
@@ -76,7 +76,7 @@ Build your website with **Infinity Hugo** theme by following these easy steps (N
 We use GitHub Issues as the official bug tracker for the Infinity Template. Please Search [existing
 issues](https://github.com/gethugothemes/infinity-hugo/issues). Someone may have already reported the same problem.
 If your problem or idea has not been addressed yet, feel free to [open a new
-issue](https://github.com/gethugothemes/infinity-hugo/issues).
+issue](https://github.com/gethugothemes/infinity-hugo/issues/new).
 
 <!-- ## Infinity Hugo theme Powered Websites
 - https://thetechbattalion.com/
