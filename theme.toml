@@ -3,8 +3,8 @@
 
 name = "Infinity Hugo"
 license = "MIT"
-licenselink = "https://github.com/themefisher/infinity-hugo/blob/master/LICENSE"
-description = "Hugo port of the Themefisher’s Infinity Template"
+licenselink = "https://github.com/gethugothemes/infinity-hugo/blob/master/LICENSE"
+description = "Infinity is a responsive, modern and clean free coming soon landing page theme for Hugo."
 homepage = "https://gethugothemes.com/products/infinity/"
 demosite = "https://demo.gethugothemes.com/infinity/"
 tags = ['comming-soon', 'landing-page', 'themefisher', 'hugo-theme', 'hugo-templates', 'bootstrap4', 'gethugothemes']
@@ -12,5 +12,5 @@ features = ['bootstrap4','responsive']
 min_version = "0.64.0"
 
 [author]
-  name = "Themefisher"
-  homepage = "https://themefisher.com/"
+  name = "Gethugothemes"
+  homepage = "https://gethugothemes.com/"
