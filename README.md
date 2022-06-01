@@ -25,7 +25,9 @@
 </p>
 
 ---
+
 ## Features
+
 - Onepage template
 - Google analytics  support
 - Netlify settings predefine
@@ -47,6 +49,7 @@ $ cd infinity-hugo/exampleSite/
 # Start local dev server
 $ hugo server --themesDir ../..
 ```
+
 Or Check out [Full Documentation](https://docs.gethugothemes.com/Infinity/?ref=github).
 
 ## Content Management System
@@ -68,11 +71,13 @@ Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com
 Follow the steps.
 
 ## Prefer a video? (Hugo + Netlify + Forestry)
+
 Build your website with **Infinity Hugo** theme by following these easy steps (No Coding Required!)
 [Video Tutorial](https://youtu.be/ResipmZmpDU).
 
 <!-- reporting issue -->
 ## Reporting Issues
+
 We use GitHub Issues as the official bug tracker for the Infinity Template. Please Search [existing
 issues](https://github.com/gethugothemes/infinity-hugo/issues). Someone may have already reported the same problem.
 If your problem or idea has not been addressed yet, feel free to [open a new
@@ -80,11 +85,11 @@ issue](https://github.com/gethugothemes/infinity-hugo/issues).
 
 <!-- ## Infinity Hugo theme Powered Websites
 
-
 View all the websites powered by Infinity Hugo theme [here](https://github.com/gethugothemes/infinity-hugo/wiki/All-infinity-hugo-theme-Powered-Websites). Want to submit your own website powered by Infinity Hugo theme? You can submit it [here](https://github.com/gethugothemes/infinity-hugo/discussions/22). -->
 
 <!-- licence -->
 ## License
+
 Copyright &copy; Designed by [Themefisher](https://themefisher.com) & Developed by
 [Gethugothemes](https://gethugothemes.com)
 
@@ -95,6 +100,7 @@ share those images.
 
 <!-- resources -->
 ## Special Thanks
+
 - [Bootstrap](https://getbootstrap.com)
 - [Jquery](https://jquery.com)
 - [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2)
@@ -104,13 +110,14 @@ share those images.
 - [Google Fonts](https://fonts.google.com/)
 - [All Contributors](https://github.com/gethugothemes/infinity-hugo/graphs/contributors)
 
-
 ## Hire Us
+
 We are available for **Hiring** for your next HUGO project. Please, check our
 [services](https://gethugothemes.com/services/?ref=github)
 
 <!-- premium themes -->
 ## Premium Themes By Us
-| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.webp)](https://gethugothemes.com/bundle) | [![Timer](https://demo.gethugothemes.com/thumbnails/timer.webp)](https://gethugothemes.com/products/timer/) | [![Meghna](https://demo.gethugothemes.com/thumbnails/meghna.webp)](https://gethugothemes.com/products/meghna-hugo-theme/) |
+
+| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.png)](https://gethugothemes.com/bundle) | [![Timer](https://demo.gethugothemes.com/thumbnails/timer.png)](https://gethugothemes.com/products/timer/) | [![Meghna](https://demo.gethugothemes.com/thumbnails/meghna.png)](https://gethugothemes.com/products/meghna-hugo-theme/) |
 |:---:|:---:|:---:|
 | **Premium Theme Bundle (40+)** | **Timer** | **Meghna** |
