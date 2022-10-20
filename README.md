@@ -1,4 +1,8 @@
-<h1 align=center>Infinity Hugo | <a target="_blank" href="https://demo.gethugothemes.com/infinity" rel="nofollow">Demo</a> | <a  target="_blank" href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Finfinity%2F">Page Speed (71%)</a></h1>
+<h1 align=center>Infinity Hugo</h1>
+<p align=center> Infinity is a responsive, modern and clean free coming soon landing page theme for Hugo.</p>
+<h2 align="center"> <a target="_blank" href="https://demo.gethugothemes.com/infinity" rel="nofollow">Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fdemo.gethugothemes.com%2Finfinity%2Fsite%2F&form_factor=desktop">Page Speed (94%)</a></h2>
+
+
 
 <p align=center>
   <a href="https://github.com/gohugoio/hugo/releases/tag/v0.64.0" alt="Contributors">
@@ -26,14 +30,14 @@
 
 ---
 
-## Features
+## Key Features
 
 - Onepage template
 - Google analytics  support
 - Netlify settings predefine
 - Countdown timer available
 - Contact form Support
-- Google page speed optimized ( 71% )
+- Google page speed optimized ( 94% )
 - Open graph meta tag
 - Twitter card meta tag
 
@@ -85,7 +89,9 @@ issue](https://github.com/gethugothemes/infinity-hugo/issues).
 
 <!-- ## Infinity Hugo theme Powered Websites
 
-View all the websites powered by Infinity Hugo theme [here](https://github.com/gethugothemes/infinity-hugo/wiki/All-infinity-hugo-theme-Powered-Websites). Want to submit your own website powered by Infinity Hugo theme? You can submit it [here](https://github.com/gethugothemes/infinity-hugo/discussions/22). -->
+View all the websites powered by Infinity Hugo theme [here](https://github.com/gethugothemes/infinity-hugo/wiki/All-infinity-hugo-theme-Powered-Websites)-->
+## Add your website to the Gethugothemes showcase
+Want to submit your own website powered by Infinity Hugo to the Gethugothemes showcase? You can submit it [here](https://gethugothemes.com/showcase).
 
 <!-- licence -->
 ## License
@@ -120,6 +126,6 @@ If you need to customize the theme or complete website development from scratch,
 <!-- premium themes -->
 ## Premium Themes By Us
 
-| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.png)](https://gethugothemes.com/bundle/?utm_source=infinity_github&utm_medium=referral&utm_campaign=github_theme_readme) | [![Timer](https://demo.gethugothemes.com/thumbnails/timer.png)](https://gethugothemes.com/products/timer/) | [![Meghna](https://demo.gethugothemes.com/thumbnails/meghna.png)](https://gethugothemes.com/products/meghna-hugo-theme/) |
+| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.png?)](https://gethugothemes.com/bundle/?utm_source=infinity_github&utm_medium=referral&utm_campaign=github_theme_readme) | [![Timer](https://demo.gethugothemes.com/thumbnails/timer.png)](https://gethugothemes.com/products/timer/) | [![Meghna](https://demo.gethugothemes.com/thumbnails/meghna.png)](https://gethugothemes.com/products/meghna-hugo-theme/) |
 |:---:|:---:|:---:|
-| **Get 50+ Premium Hugo Themes Bundle** | **Timer** | **Meghna** |
+| **Get 55+ Premium Hugo Themes Bundle** | **Timer** | **Meghna** |
