@@ -46,11 +46,11 @@
 # clone the repository
 git clone git@github.com:gethugothemes/infinity-hugo.git
 
-# cd in the project directory
-$ cd infinity-hugo/exampleSite/
+# setup project
+$ npm run project-setup
 
 # Start local dev server
-$ hugo server --themesDir ../..
+$ npm run dev
 ```
 
 Or Check out [Full Documentation](https://docs.gethugothemes.com/Infinity/?ref=github).

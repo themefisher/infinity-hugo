@@ -1,0 +1,5 @@
+baseURL = "https://demo.gethugothemes.com/infinity/site/"
+languageCode = "en-us"
+title = "Infinity | Comming Soon Hugo Template By Themefisher"
+theme = "infinity-hugo"
+removePathAccents = true

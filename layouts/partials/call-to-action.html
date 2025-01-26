@@ -1,6 +1,6 @@
 {{ if .Site.Params.cta.enable }}
     {{"<!-- Call To Action Section -->" | safeHTML}}
-    <section class="call-to-action" style='background-image: url("{{ with .Site.Params.cta.bg }}{{.}}{{ end }}")' >
+    <section class="call-to-action" {{ partial `bg-image.html` (dict `Src` .Site.Params.cta.bg ) | safeHTMLAttr }}>
         <div class="container">
             <div class="row">
                 <div class="col-md-12 wow text-center">

@@ -18,7 +18,7 @@
                 <div class="col-md-5 col-sm-12 wow fadeInLeft" data-wow-delay="0.3s">
                     <div class="about-slider">
                         {{ range .Site.Params.about.sliderItem }}
-                            <img src="{{ .image }}" alt="{{ i18n "sliderImage" }}">
+                            {{ partial "image.html" (dict "Src" .image "Alt" "Image") }}
                         {{ end }}
                     </div>
                 </div>
