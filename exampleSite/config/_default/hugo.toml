@@ -1,4 +1,4 @@
-baseURL = "https://demo.gethugothemes.com/infinity/site/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Infinity | Comming Soon Hugo Template By Themefisher"
 theme = "infinity-hugo"
