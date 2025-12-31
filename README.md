@@ -59,11 +59,6 @@ Or Check out [Full Documentation](https://docs.gethugothemes.com/Infinity/?ref=g
 
 ## ⚙️Deployment and hosting
 
-[![Deploy to
-Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gethugothemes/infinity-hugo)
-
-Follow the steps.
-
 <!-- edit with sitepins -->
 
 ## 📝 Edit Content with CMS
